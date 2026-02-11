@@ -5,8 +5,8 @@
 - Python：3.10.12
 - GPU：NVIDIA T4 16GB
 - Driver：570.158.01
-- CUDA（Driver）：12.8
-- PyTorch：2.5.1 + cu121
+CUDA: 12.1
+PyTorch: 2.5.1+cu121
 
 ## GPU 自检
 - 使用 nvidia-smi 验证 GPU 正常
