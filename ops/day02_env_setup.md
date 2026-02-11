@@ -3,14 +3,14 @@
 ## 环境信息
 - OS：Ubuntu 22.04
 - Python：3.10.12
-- GPU：Tesla V100-SXM2-32GB
+- GPU：NVIDIA T4 16GB
 - Driver：570.158.01
 - CUDA（Driver）：12.8
 - PyTorch：2.5.1 + cu121
 
 ## GPU 自检
 - 使用 nvidia-smi 验证 GPU 正常
-- 显存 32GB，无占用进程
+- 显存 16GB，无占用进程
 
 ## Python 环境
 - 使用 venv 创建虚拟环境 rag-env
