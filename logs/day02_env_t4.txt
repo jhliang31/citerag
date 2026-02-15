@@ -1,7 +1,0 @@
-=== Day02 Environment Check (T4) ===
-Hostname: VM-0-13-ubuntu
-Torch: 2.5.1+cu121
-CUDA available: True
-GPU: Tesla T4
-GPU matmul OK. shape: torch.Size([1024, 1024])
-Allocated MB: 20.12
