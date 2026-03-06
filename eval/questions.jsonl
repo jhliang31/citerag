@@ -1,0 +1,21 @@
+{"question": "进程的定义是什么？", "doc_id": "os_tutorial", "gold_pages": [64]}
+{"question": "进程有哪些基本状态？", "doc_id": "os_tutorial", "gold_pages": [65]}
+{"question": "进程控制块 PCB的作用是什么？", "doc_id": "os_tutorial", "gold_pages": [64]}
+{"question": "进程控制包括哪些基本操作？", "doc_id": "os_tutorial", "gold_pages": [43]}
+{"question": "进程间通信的主要方式有哪些？", "doc_id": "os_tutorial", "gold_pages": [76]}
+{"question": "什么是系统调用？", "doc_id": "os_tutorial", "gold_pages": [55]}
+{"question": "多线程模型有哪些？", "doc_id": "os_tutorial", "gold_pages": [89]}
+{"question":"多级页表的基本思想是什么？","doc_id":"os_tutorial","gold_pages":[179,180]}
+{"question": "什么是FCB？", "doc_id": "os_tutorial", "gold_pages": [281]}
+{"question": "虚拟存储器的基本工作原理是什么？", "doc_id": "os_tutorial", "gold_pages": [195]}
+
+{"question": "什么是冯·诺依曼结构？", "doc_id": "co", "gold_pages": [14]}
+{"question": "CPU 的功能是什么？", "doc_id": "co", "gold_pages": [343]}
+{"question": "什么是指令周期？", "doc_id": "co", "gold_pages": [348]}
+{"question": "指令周期的基本阶段有哪些？", "doc_id": "co", "gold_pages": [348]}
+{"question": "什么是流水线技术？", "doc_id": "co", "gold_pages": [363]}
+{"question": "什么是 高速缓存 Cache？", "doc_id": "co", "gold_pages": [115]}
+{"question": "什么是局部性原理？", "doc_id": "co", "gold_pages": [194]}
+{"question": "程序计数器（PC）的作用是什么？", "doc_id": "co", "gold_pages": [22]}
+{"question": "什么是中断隐指令？", "doc_id": "co", "gold_pages": [364]}
+{"question": "什么是算术移位？", "doc_id": "co", "gold_pages": [240]}
