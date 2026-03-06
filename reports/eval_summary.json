@@ -1,0 +1,23 @@
+{
+  "config": {
+    "topk": 5,
+    "use_rerank": true,
+    "use_judge": true,
+    "sim_threshold": 0.52
+  },
+  "summary": {
+    "n_questions": 20,
+    "strict_recall_at_1": 0.3,
+    "strict_recall_at_3": 0.35,
+    "strict_recall_at_5": 0.4,
+    "avg_coverage": 94.6,
+    "avg_retrieve_sec": 1.1477,
+    "avg_rerank_sec": 0.4678,
+    "avg_generate_sec": 15.2493,
+    "avg_judge_sec": 0.4842,
+    "confidence_level_dist": {
+      "HIGH": 17,
+      "MEDIUM": 3
+    }
+  }
+}
