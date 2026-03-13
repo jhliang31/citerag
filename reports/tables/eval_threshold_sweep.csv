@@ -1,0 +1,3 @@
+﻿sim_threshold,strict_r1,strict_r3,strict_r5,avg_coverage,HIGH,MEDIUM,LOW,avg_retrieve_sec,avg_rerank_sec,avg_generate_sec,avg_judge_sec
+0.9,0.3,0.35,0.4,94.6,17,3,0,1.599,0.5113,14.1281,0.6804
+0.95,0.3,0.35,0.4,94.6,17,3,0,0.0106,0.0563,13.9729,0.0273

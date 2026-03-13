@@ -47,7 +47,7 @@ def run_query(
     use_rerank: bool = True,
     use_judge: bool = False,
     recall_k: int = 5,
-    sim_threshold: float = 0.52
+    sim_threshold: float = 0.7
 ):
     timings = {}
 

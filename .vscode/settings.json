@@ -1,0 +1,17 @@
+{
+  "python.defaultInterpreterPath": "D:\\Anaconda\\envs\\my_project_llm\\python.exe",
+  "python.terminal.activateEnvironment": false,
+  "terminal.integrated.profiles.windows": {
+    "PowerShell (my_project_llm)": {
+      "source": "PowerShell",
+      "args": [
+        "-NoExit",
+        "-ExecutionPolicy",
+        "Bypass",
+        "-Command",
+        "& 'D:\\Anaconda\\shell\\condabin\\conda-hook.ps1'; conda activate 'D:\\Anaconda\\envs\\my_project_llm'"
+      ]
+    }
+  },
+  "terminal.integrated.defaultProfile.windows": "PowerShell (my_project_llm)"
+}
