@@ -143,8 +143,8 @@ citerag/
 项目环境：
 
 项目路径: E:\Code\citerag  
-conda环境: my_project_llm  
-Python: D:\Anaconda\envs\my_project_llm\python.exe  
+conda环境: my_project_citerag  
+Python: D:\Anaconda\envs\my_project_citerag\python.exe  
 
 模型：
 
@@ -156,14 +156,23 @@ Vector DB: FAISS
 
 # 7. 环境安装
 
-创建环境：
+项目环境依赖如下：
 
-conda create -n my_project_llm python=3.10  
-conda activate my_project_llm  
+- torch
+- transformers
+- accelerate
+- datasets
+- peft
+- bitsandbytes
+- sentence-transformers
+- faiss-cpu
+- pypdf
 
-安装依赖：
+安装：
 
+```bash
 pip install -r requirements.txt
+```
 
 ---
 

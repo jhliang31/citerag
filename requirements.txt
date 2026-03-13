@@ -1,0 +1,27 @@
+# deep learning
+torch
+
+# huggingface ecosystem
+transformers
+datasets
+accelerate
+
+# parameter efficient fine-tuning
+peft
+bitsandbytes
+
+# embedding
+sentence-transformers
+
+# vector search
+faiss-cpu
+
+# pdf parsing
+pypdf
+
+# utilities
+tqdm
+numpy
+pandas
+scikit-learn
+matplotlib
