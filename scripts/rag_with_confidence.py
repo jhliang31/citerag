@@ -203,7 +203,7 @@ def main():
         LLM_MODEL,
         quantization_config=bnb_config,
         device_map="auto",
-        dtype=torch.float16,     # ✅ 替代 torch_dtype（你那个warning就没了）
+        dtype=torch.float16,     # ✅ 替代 torch_dtype
     )
     model.eval()
 

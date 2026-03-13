@@ -85,7 +85,7 @@ def main():
         "built_at": datetime.now().isoformat(timespec="seconds"),
         "chunks_glob": args.chunks_glob,
         "source_files": [os.path.basename(p) for p in files],
-        "chunks": chunks,  # 保持你原来的行为：把chunks都存进去
+        "chunks": chunks,  # 保持原来的行为：把chunks都存进去
     }
 
     with open(meta_path, "w", encoding="utf-8") as f:
