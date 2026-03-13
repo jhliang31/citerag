@@ -20,15 +20,11 @@ CiteRAG 是一个面向中文教材场景的 PDF 问答系统。系统以课程 
 - 数据纯净度对微调结果的影响
 - LoRA 与 RAG 在实际问答系统中的互补关系
 
-项目强调：
-
-- 工程可复现
-- 回答可追溯
-- 实验可解释
-- 结果可展示
-
----
-
+## 系统运行示例
+![RAG Ask](assets/run_ask.png)
+![RAG Answer](assets/run_answer.png)
+![RAG Citation](assets/run_citation_select.png)
+![RAG show](assets/run_citation_show.png)
 # 2. 项目目标
 
 ## 2.1 系统目标
