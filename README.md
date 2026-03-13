@@ -122,7 +122,7 @@ PDF → chunk → embedding → FAISS → reranker → LLM → 引用输出
 ---
 
 # 5. 项目结构
-
+```
 citerag/
 ├─ app.py
 ├─ data/
@@ -134,7 +134,10 @@ citerag/
 ├─ reports/
 ├─ scripts/
 ├─ src/
-└─ README.md
+├─  README.md
+└─ requirements.txt
+
+```
 
 ---
 
